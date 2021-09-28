@@ -1,0 +1,1 @@
+return Enum.UserInputType.Touch
